@@ -1,0 +1,11 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../project_1.srcs/sources_1/ip/mult_dct/sim/mult_dct.vhd" \
+"../../../../project_1.srcs/sources_1/ip/float2fixed/sim/float2fixed.vhd" \
+"../../../../project_1.srcs/sources_1/ip/ln_ip/sim/ln_ip.vhd" \
+"../../../../project_1.srcs/sources_1/ip/fixed2float/sim/fixed2float.vhd" \
+"../../../../project_1.srcs/sources_1/ip/mult/sim/mult.vhd" \
+"../../../../project_1.srcs/sources_1/ip/fft/sim/fft.vhd" \
+
+# Do not sort compile order
+nosort

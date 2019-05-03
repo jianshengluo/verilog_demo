@@ -1,0 +1,52 @@
+Unable to capture context for thread 3672 in process 1040, can not generate back trace
+Unable to capture context for thread 5564 in process 1040, can not generate back trace
+Unable to capture context for thread 2356 in process 1040, can not generate back trace
+Unable to capture context for thread 6512 in process 1040, can not generate back trace
+Unable to capture context for thread 7912 in process 1040, can not generate back trace
+Unable to capture context for thread 4964 in process 1040, can not generate back trace
+Exception at PC 0x00007FFFCE0DA1C8
+Unable to capture context for thread 8120 in process 1040, can not generate back trace
+Unable to capture context for thread 4276 in process 1040, can not generate back trace
+Exception at PC 0x00007FFF78F4BB93
+Printing stacktrace...
+
+[0]  [0x00007FFF78F4BB93]
+[1]  [0x00007FFF78F4BB93]
+[2]  [0x00007FFF78F4B4A1]
+[3]  [0x00007FFF78F4B3EF]
+[4]  [0x00007FFF78F319FE]
+[5]  [0x00007FFF78F30ED1]
+[6]  [0x00007FFF78F30D76]
+[7]  [0x00007FFF78ED79F6]
+[8]  [0x00007FFF78EC7AFB]
+[9]  [0x00007FFF78FEE90A]
+[10]  [0x00007FFF79009F87]
+[11]  [0x00007FFF7900A05F]
+[12] (BaseThreadInitThunk+0x22) [0x00007FFFCF0C2D92]
+[13] (RtlUserThreadStart+0x34) [0x00007FFFD0BD9F64]
+Done
+Exception at PC 0x00007FFF78C51A52
+Attemped to write at address 0x00007FFFA8AEABA4
+Printing stacktrace...
+
+[0]  [0x00007FFF78C51A52]
+[1]  [0x00007FFF78C51A52]
+[2]  [0x00007FFF78C51AD4]
+[3]  [0x00007FFF78D93FF7]
+[4]  [0x00007FFF78C79128]
+[5]  [0x00007FFF78F2DFB9]
+[6]  [0x00007FFF790FEF23]
+[7]  [0x00007FFF7900B06B]
+[8]  [0x00007FFF790008AF]
+[9]  [0x00007FFF79000A32]
+[10] (RtlEqualUnicodeString+0x120) [0x00007FFFD0BF3DF0]
+[11] (LdrShutdownProcess+0x14a) [0x00007FFFD0C144DA]
+[12] (RtlExitUserProcess+0xb4) [0x00007FFFD0C14374]
+[13] (FatalExit+0xa) [0x00007FFFCF0CEF5A]
+[14] (exit+0x95) [0x00007FFFCE6FA235]
+[15] (initterm_e+0x243) [0x00007FFFCE6FA8C3]
+[16]  [0x00000000004014CD]
+[17]  [0x000000000040151B]
+[18] (BaseThreadInitThunk+0x22) [0x00007FFFCF0C2D92]
+[19] (RtlUserThreadStart+0x34) [0x00007FFFD0BD9F64]
+Done

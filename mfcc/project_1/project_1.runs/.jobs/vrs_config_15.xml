@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="mult_dct_synth_1" LaunchDir="D:/Vivado/Project/mfcc/project_1/project_1.runs/mult_dct_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="dct_ram_synth_1" LaunchDir="D:/Vivado/Project/mfcc/project_1/project_1.runs/dct_ram_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="float2fixed_synth_1" LaunchDir="D:/Vivado/Project/mfcc/project_1/project_1.runs/float2fixed_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="ln_ip_synth_1" LaunchDir="D:/Vivado/Project/mfcc/project_1/project_1.runs/ln_ip_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="fixed2float_synth_1" LaunchDir="D:/Vivado/Project/mfcc/project_1/project_1.runs/fixed2float_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="mult_synth_1" LaunchDir="D:/Vivado/Project/mfcc/project_1/project_1.runs/mult_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="fil_ram_synth_1" LaunchDir="D:/Vivado/Project/mfcc/project_1/project_1.runs/fil_ram_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="fft_synth_1" LaunchDir="D:/Vivado/Project/mfcc/project_1/project_1.runs/fft_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="ham_ram_synth_1" LaunchDir="D:/Vivado/Project/mfcc/project_1/project_1.runs/ham_ram_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+</Runs>
+

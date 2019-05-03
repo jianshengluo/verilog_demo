@@ -1,0 +1,3 @@
+coe文件夹包含所有的coe文件，若IP核内coe文件失效可以手动导入
+data_V0323内是测试数据，data_V0323->one_by_one->oneframe_din_h.txt是top_tb的测试数据
+图片是一帧的结果

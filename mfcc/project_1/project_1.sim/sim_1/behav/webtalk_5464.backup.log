@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Webtalk v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Fri Apr 19 16:29:11 2019
+# Process ID: 5464
+# Current directory: C:/Users/hp/Desktop/project_1/project_1.sim/sim_1/behav
+# Command line: wbtcv.exe -mode batch -source C:/Users/hp/Desktop/project_1/project_1.sim/sim_1/behav/xsim.dir/top_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/hp/Desktop/project_1/project_1.sim/sim_1/behav/webtalk.log
+# Journal file: C:/Users/hp/Desktop/project_1/project_1.sim/sim_1/behav\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/hp/Desktop/project_1/project_1.sim/sim_1/behav/xsim.dir/top_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+INFO: [Common 17-186] 'C:/Users/hp/Desktop/project_1/project_1.sim/sim_1/behav/xsim.dir/top_tb_behav/webtalk/usage_statistics_ext_xsim.xml' has been successfully sent to Xilinx on Fri Apr 19 16:29:17 2019. For additional details about this file, please refer to the WebTalk help file at D:/Xilinx/Vivado/2017.2/doc/webtalk_introduction.html.
+webtalk_transmit: Time (s): cpu = 00:00:00 ; elapsed = 00:00:05 . Memory (MB): peak = 61.414 ; gain = 1.137
+INFO: [Common 17-206] Exiting Webtalk at Fri Apr 19 16:29:17 2019...

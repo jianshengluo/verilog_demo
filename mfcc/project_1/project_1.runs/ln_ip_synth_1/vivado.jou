@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Thu Apr 25 17:14:06 2019
+# Process ID: 10368
+# Current directory: D:/Vivado/Project/mfcc/project_1/project_1.runs/ln_ip_synth_1
+# Command line: vivado.exe -log ln_ip.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source ln_ip.tcl
+# Log file: D:/Vivado/Project/mfcc/project_1/project_1.runs/ln_ip_synth_1/ln_ip.vds
+# Journal file: D:/Vivado/Project/mfcc/project_1/project_1.runs/ln_ip_synth_1\vivado.jou
+#-----------------------------------------------------------
+source ln_ip.tcl -notrace

@@ -1,0 +1,28 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/Project/mfcc/project_1/project_1.srcs/sources_1/ip/dct_ram/sim/dct_ram.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dct_ram
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/Project/mfcc/project_1/project_1.srcs/sources_1/ip/fil_ram/sim/fil_ram.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fil_ram
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/Project/mfcc/project_1/project_1.srcs/sources_1/ip/ham_ram/sim/ham_ram.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ham_ram
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/Project/mfcc/project_1/project_1.srcs/sources_1/new/FFT.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FFT
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/Project/mfcc/project_1/project_1.srcs/sources_1/new/Ln_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Ln_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/Project/mfcc/project_1/project_1.srcs/sources_1/new/add_win.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module add_win
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/Project/mfcc/project_1/project_1.srcs/sources_1/new/dct_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dct_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/Project/mfcc/project_1/project_1.srcs/sources_1/new/mel_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mel_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/Project/mfcc/project_1/project_1.srcs/sources_1/new/qadd.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module qadd
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/Project/mfcc/project_1/project_1.srcs/sources_1/new/qmut.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module qmut
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/Project/mfcc/project_1/project_1.srcs/sources_1/new/qtwosComp.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module qtwosComp
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/Project/mfcc/project_1/project_1.srcs/sources_1/new/top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/Project/mfcc/project_1/project_1.srcs/sim_1/new/top_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/Project/mfcc/project_1/project_1.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

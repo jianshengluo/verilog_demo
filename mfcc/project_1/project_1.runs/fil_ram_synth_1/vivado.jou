@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Thu Apr 25 17:20:00 2019
+# Process ID: 9700
+# Current directory: D:/Vivado/Project/mfcc/project_1/project_1.runs/fil_ram_synth_1
+# Command line: vivado.exe -log fil_ram.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source fil_ram.tcl
+# Log file: D:/Vivado/Project/mfcc/project_1/project_1.runs/fil_ram_synth_1/fil_ram.vds
+# Journal file: D:/Vivado/Project/mfcc/project_1/project_1.runs/fil_ram_synth_1\vivado.jou
+#-----------------------------------------------------------
+source fil_ram.tcl -notrace
