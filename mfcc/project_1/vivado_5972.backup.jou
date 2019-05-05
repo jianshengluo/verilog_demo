@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Fri Apr 19 16:24:26 2019
+# Process ID: 5972
+# Current directory: C:/Users/hp/Desktop/project_1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent7576 C:\Users\hp\Desktop\project_1\project_1.xpr
+# Log file: C:/Users/hp/Desktop/project_1/vivado.log
+# Journal file: C:/Users/hp/Desktop/project_1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/hp/Desktop/project_1/project_1.xpr
+update_compile_order -fileset sources_1
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top top_tb [get_filesets sim_1]
+set_property top_lib xil_defaultlib [get_filesets sim_1]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+update_compile_order -fileset sim_1
+launch_simulation
+source top_tb.tcl
+run 70 us
+run 20 us
+close_sim
